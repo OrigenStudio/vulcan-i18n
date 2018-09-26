@@ -10,5 +10,5 @@ Right now the package doesn't do much. Feature ideas and feedback will be much a
 Add the package to meteor by running:
 
 ```bash
-meteor add origenstudio:vulcan-helpers
+meteor add origenstudio:vulcan-i18n
 ```
