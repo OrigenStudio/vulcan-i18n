@@ -1,4 +1,4 @@
-# Vulcan helpers (WIP)
+# Vulcan i18n (WIP)
 
 Provides helpers and utils to easily work with Vulcan.
 
